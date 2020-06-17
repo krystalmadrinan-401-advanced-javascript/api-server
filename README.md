@@ -1,3 +1,3 @@
 # api-server
 
-## Dynamic APU: Phase 1
+## Dynamic API: Phase 1
