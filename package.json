@@ -4,7 +4,9 @@
   "description": "week 2 labs",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "json-server db.json --route routes.json",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "json-server --watch ./data/db.json"
   },
   "repository": {
     "type": "git",

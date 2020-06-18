@@ -1,0 +1,21 @@
+{
+
+    "categories": [
+        {
+            "id": 1,
+            "name": "Clothes",
+            "display_name": "Clothing",
+            "description": "Things to wear"
+        }
+    ],
+
+    "products": [
+        {
+            "id": 1,
+            "category": "Clothes",
+            "name": "T-Shirt",
+            "display_name": "Shirt",
+            "description": "Bright Red Shirt"
+        }
+    ]
+}
